@@ -1,0 +1,8 @@
+{
+	"SERVER": {
+		"PORT": 6969
+	},
+	"MONGO": {
+		"URI": "mongodb://localhost:27017/trainTicket"
+	}
+}
